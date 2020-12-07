@@ -1,0 +1,16 @@
+The most commonly used vaccines have been around for decades, with millions of people receiving them safely every year. As with all medicines, every vaccine must go through extensive and rigorous testing to ensure it is safe before it can be introduced in a country.
+
+An experimental vaccine is first tested in animals to evaluate its safety and potential to prevent disease. It is then tested in human clinical trials, in three phases:
+
+In phase I, the vaccine is given to a small number of volunteers to assess its safety, confirm it generates an immune response, and determine the right dosage.
+
+
+In phase II, the vaccine is usually given hundreds of volunteers, who are closely monitored for any side effects, to further assess its ability to generate an immune response. In this phase, data are also collected whenever possible on disease outcomes, but usually not in large enough numbers to have a clear picture of the effect of the vaccine on disease. Participants in this phase have the same characteristics (such as age and sex) as the people for whom the vaccine is intended. In this phase, some volunteers receive the vaccine and others do not, which allows comparisons to be made and conclusions drawn about the vaccine.
+
+
+In phase III, the vaccine is given to thousands of volunteers – some of whom receive the investigational vaccine, and some of whom do not, just like in phase II trials. Data from both groups is carefully compared to see if the vaccine is safe and effective against the disease it is designed to protect against.
+
+
+Once the results of clinical trials are available, a series of steps is required, including reviews of efficacy, safety, and manufacturing for regulatory and public health policy approvals, before a vaccine may be introduced into a national immunization programme.
+
+Following the introduction of a vaccine, close monitoring continues to detect any unexpected adverse side effects and further assess effectiveness in the routine use setting among even larger numbers of people to continue assessing how best to use the vaccine for the greatest protective impact. More information about vaccine development and safety is available here.
