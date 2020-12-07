@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most commonly used vaccines have been around for decades, with millions of people receiving them safely every year.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Las vacunas más utilizadas se han administrado durante decenios, y millones de personas las reciben cada año con total seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As with all medicines, every vaccine must go through extensive and rigorous testing to ensure it is safe before it can be introduced in a country.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Al igual que los medicamentos, cada vacuna debe pasar por una serie de pruebas amplias y rigurosas que garanticen su seguridad, antes de que se puedan introducir en un país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An experimental vaccine is first tested in animals to evaluate its safety and potential to prevent disease.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>El primer ensayo de una vacuna experimental se realiza con animales, con el fin de evaluar su seguridad y sus posibilidades para prevenir la enfermedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is then tested in human clinical trials, in three phases:</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Con posterioridad se realizan ensayos clínicos con seres humanos, en tres fases:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In phase I, the vaccine is given to a small number of volunteers to assess its safety, confirm it generates an immune response, and determine the right dosage.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>En la fase I se administra la vacuna a un pequeño número de voluntarios, a fin de evaluar su seguridad, confirmar que genera una respuesta inmunitaria y determinar la dosis correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In phase II, the vaccine is usually given hundreds of volunteers, who are closely monitored for any side effects, to further assess its ability to generate an immune response.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>En la fase II, se suele administrar la vacuna a cientos de voluntarios, de los que se hace un seguimiento estrecho para detectar cualquier efecto secundario y evaluar su capacidad de generar una inmunitaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this phase, data are also collected whenever possible on disease outcomes, but usually not in large enough numbers to have a clear picture of the effect of the vaccine on disease.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Además, de ser posible, en esta fase se obtienen datos sobre resultados relacionados con enfermedades, pero, por lo general, en números insuficientes para tener un panorama claro del efecto de la vacuna en la enfermedad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Participants in this phase have the same characteristics (such as age and sex) as the people for whom the vaccine is intended.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Los participantes en esta fase tienen las mismas características (por ejemplo, edad y sexo) que las personas a las que se prevé vacunar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this phase, some volunteers receive the vaccine and others do not, which allows comparisons to be made and conclusions drawn about the vaccine.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>En esta fase, algunos voluntarios reciben la vacuna y otros no, lo que permite efectuar comparaciones y extraer conclusiones sobre la vacuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In phase III, the vaccine is given to thousands of volunteers – some of whom receive the investigational vaccine, and some of whom do not, just like in phase II trials.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>En la fase III se administra la vacuna a miles de voluntarios, algunos de los cuales reciben la vacuna experimental y otros no, al igual que en los ensayos de fase II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data from both groups is carefully compared to see if the vaccine is safe and effective against the disease it is designed to protect against.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Los datos de ambos grupos se comparan cuidadosamente para determinar si la vacuna es segura y eficaz contra la enfermedad de que se trate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once the results of clinical trials are available, a series of steps is required, including reviews of efficacy, safety, and manufacturing for regulatory and public health policy approvals, before a vaccine may be introduced into a national immunization programme.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Una vez disponibles los resultados de los ensayos clínicos se deben adoptar una serie de medidas que incluyen exámenes de la eficacia, seguridad y fabricación, con miras a obtener las autorizaciones normativas y de salud pública previas a la introducción de la vacuna en un programa nacional de inmunización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Following the introduction of a vaccine, close monitoring continues to detect any unexpected adverse side effects and further assess effectiveness in the routine use setting among even larger numbers of people to continue assessing how best to use the vaccine for the greatest protective impact.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Después de la introducción de una vacuna se mantiene un estrecho seguimiento destinado a detectar cualquier efecto secundario adverso imprevisto y evaluar con más detalle su eficacia en condiciones de uso sistemático, incluso con mayor número de personas, así como para seguir evaluando la mejor manera de utilizar la vacuna y de conseguir el máximo efecto de protección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More information about vaccine development and safety is available here.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20201207T115458Z">
+        <seg>Para más información (en inglés) sobre el desarrollo y la seguridad de las vacunas, pulse aquí.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
